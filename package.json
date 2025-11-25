@@ -1,6 +1,6 @@
 {
 	"name": "@foxleys-rs/curve25519",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Curve25519 for Javacript with rust binding",
 	"main": "index.js",
 	"repository": {
