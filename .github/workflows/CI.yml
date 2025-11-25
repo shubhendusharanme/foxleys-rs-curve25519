@@ -8,8 +8,6 @@ on:
   push:
     tags:
       - 'v*'
-    tags-ignore:
-      - '**'
     paths-ignore:
       - '**/*.md'
       - LICENSE
